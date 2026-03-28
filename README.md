@@ -26,7 +26,7 @@ The project implements an automated "Data Cleaning + AI Inference" workflow:
 ### 1. Douyin Sentiment Profile
 The Douyin audience presented a highly critical perspective, often viewing the event through a socio-economic lens.
 
-![Douyin Sentiment Profile](抖音-visualizations/Proportion of Sentiment Categories - Douyin)
+![Douyin Sentiment Profile](douyin-visualizations/Proportion of Sentiment Categories - Douyin)
 
 * **Analysis:** Negative sentiment reached **50.0%**. Users frequently discussed "Corporate Showmanship" and expressed skepticism regarding the gap between billionaires and frontline workers.
 
